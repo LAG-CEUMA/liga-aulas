@@ -13,7 +13,7 @@
 3. Clique em **Fetch origin** e depois em **Pull origin**. (**Pull** traz o material novo.)
 4. Abra a pasta: **Repository > Show in Explorer** (Mac: **Show in Finder**).
 5. Entre em `nivel-00/semana-NN/`.
-6. Abra `aula.md` (resumo) e `tarefa.md` (tarefa de casa) com o Bloco de Notas.
+6. Abra `aula.md` (resumo) e `tarefa.md` (tarefa de casa) com o Bloco de Notas (Mac: TextEdit ou VS Code).
 
 ## 3. Como o material está organizado
 | N | Pasta ou arquivo | Tipo | O que é |
